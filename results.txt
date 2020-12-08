@@ -1,0 +1,10 @@
+ss script run started on Fri May 10 15:37:36 2019
+run on machine coe-ee-cad11.sjsuad.sjsu.edu /home/013591357@SJSUAD.SJSU.EDU/randnum
+
+Run with a clock period of 3.0
+options syn False gates False
+VCS simulation worked
+NCverilog simulation worked
+Synthesis finished OK
+Gate level simulation worked
+Completed the ss run

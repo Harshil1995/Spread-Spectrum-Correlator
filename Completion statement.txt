@@ -1,0 +1,1 @@
+The project worked successfully. All the test cases were passed. We performed pipelining in the code and got overall slack of +0.76. Our NCVerilog simulation worked.
